@@ -10,8 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
   "beneficiarios": [
-  { "id": 1, "name": "some comment", "data" :"12-12-2020", "rg":"3333", "cpf":"33", "validade":"err","via": 1 },
+  { "id": 1, "name": "some comment", "data": "12-12-2020", "rg":"3333", "cpf":"33", "validade":"err","via": 1 }
   ]
 }
